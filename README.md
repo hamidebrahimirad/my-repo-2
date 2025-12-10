@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * pack-folder.js
+ * pack-folder.j
  *
  * Usage:
  *   node pack-folder.js ./my-folder
