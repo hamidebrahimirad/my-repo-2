@@ -5,7 +5,7 @@
  *
  * Usage:
  *   node pack-folder.js ./my-folder
- *   node pack-folder.js ./my-folder output.zip meta.json
+ *   node pack-folder.js ./my-folder output.zip meta.jso
  */
 
 import fs from "fs";
