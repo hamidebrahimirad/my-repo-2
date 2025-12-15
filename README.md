@@ -2,11 +2,9 @@
 
 /**
  * pack-folder.j
- *
- * Usage:
+ * *
  *   node pack-folder.js ./my-folder
- *   node pack-folder.js ./my-folder output.zip meta.jso
- */
+ *  *   node pack-folder.js ./my-folder output.zip meta.js/
 
 import fs from "fs";
 import crypto from "crypto";
@@ -38,7 +36,7 @@ function sha256OfFile(filePath) {
 async function main() {
   const folder = process.argv[2];
   if (!folder) {
-    console.log("Usage: node pack-folder.js <folder> [zipName] [metaName]");
+    console.log("Usage: node pack-folder.js <folder  [zipName] [metaName]");
     process.exit(1);
   }
 
