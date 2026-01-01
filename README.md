@@ -3,7 +3,7 @@
 /**
  * pack-folder.j
  * *
- *   node pack-folder.js ./my-fold
+ *   node pack-folder.js ./my-folde
  *  *   node pack-folder.js ./my-folder output.zip meta.js/
 
 import fs from "fs";
