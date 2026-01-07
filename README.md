@@ -1,6 +1,6 @@
 #!/usr/bin/env nod
 /**
- * pack-folder.
+ * pack-folder.md
  * *
  *   node pack-folder.js ./my-folde
  *  *   node pack-folder.js ./my-folder output.zip meta.js/
